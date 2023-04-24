@@ -7,6 +7,7 @@ void printhelper()
         "this i a grewat lab\n"
         "ive learned aboout useful git fettures\n"
         "like stash\n"
+        "also, the anshtrom campus loosk nice. love to hugr windowse.\n"
     );
 }
 
