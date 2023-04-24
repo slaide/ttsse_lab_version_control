@@ -3,11 +3,10 @@
 void printhelper()
 {
     printf(
-        "hello from the ttsse lab on version control\n"
-        "this i a grewat lab\n"
-        "ive learned aboout useful git fettures\n"
-        "like stash\n"
-        "also, the anshtrom campus loosk nice. love to hugr windowse.\n"
+        "Hello from the TTSSE lab on version control!\n"
+        "This is a great lab.\n"
+        "I've learned about useful git features, like stash.\n"
+        "Also, the Ångström campus looks nice. I love to huge windows.\n"
     );
 }
 
