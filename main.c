@@ -6,6 +6,7 @@ void printhelper()
         "hello from the ttsse lab on version control\n"
         "this i a grewat lab\n"
         "ive learned aboout useful git fettures\n"
+        "like stash\n"
     );
 }
 
