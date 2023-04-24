@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-void printhelper(){
+void printhelper()
+{
     printf("hello from the ttsse lab on version control\n");
 }
 
